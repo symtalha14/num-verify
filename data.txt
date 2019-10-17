@@ -1,0 +1,243 @@
+004/AF/AFG/Afghanistan/93/9 digits
+008/AL/ALB/Albania/355/3 to 9 digits
+012/DZ/DZA/Algeria/213/8, 9 digits
+016/AS/ASM/American Samoa/1/(684)+ 7 digits
+020/AD/AND/Andorra/376/6, 8, 9 digits
+024/AO/AGO/Angola/244/9 digits
+660/AI/AIA/Anguilla/1/(264)+ 7 digits
+028/AG/ATG/Antigua and Barbuda/1/(268)+ 7 digits
+032/AR/ARG/Argentina/54/10 digits
+051/AM/ARM/Armenia/374/8 digits
+533/AW/ABW/Aruba/297/7 digits
+654/SH/SHN/Ascension/247/4 digits
+036/AU/AUS/Australia/61/4 to 15 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Australian Capital Territory/672/6 digits
+040/AT/AUT/Austria/43/4 to 13 digits
+031/AZ/AZE/Azerbaijan/994/8 to 9 digits
+044/BS/BHS/Bahamas/1/(242)+ 7 digits
+048/BH/BHR/Bahrain/973/8 digits
+050/BD/BGD/Bangladesh/880/6 to 10 digits
+052/BB/BRB/Barbados/1/(246)+ 7 digits
+112/BY/BLR/Belarus/375/9 to 10 digits
+056/BE/BEL/Belgium/32/8 to 9 digits
+084/BZ/BLZ/Belize/501/7 digits
+204/BJ/BEN/Benin/229/8 digits
+060/BM/BMU/Bermuda/1/(441)+ 7 digits
+064/BT/BTN/Bhutan/975/7 to 8 digits
+068/BO/BOL/Bolivia/591/8 digits
+070/BA/BIH/Bosnia and Herzegovina/387/8 digits
+072/BW/BWA/Botswana/267/7 to 8 digits
+076/BR/BRA/Brazil/55/10 digits
+092/VG/VGB/Virgin Islands(British)/1/(284)+ 7 digits
+096/BN/BRN/Brunei/673/7 digits
+100/BG/BGR/Bulgaria/359/7 to 9 digits
+854/BF/BFA/Burkina Faso/226/8 digits
+95/MM/MMR/Burma/95/7 to 9 digits
+108/BI/BDI/Burundi/257/8 digits
+116/KH/KHM/Cambodia/855/8 digits
+120/CM/CMR/Cameroon/237/8 digits
+124/CA/CAN/Canada/1/10 digits
+132/CV/CPV/Cape Verde/238/7 digits
+136/KY/CYM/Cayman Islands/1/(345)+ 7 digits
+140/CF/CAF/Central African Republic/236/8 digits
+148/TD/TCD/Chad/235/6, 7 digits
+152/CL/CHL/Chile/56/8 to 9 digits
+156/CN/CHN/China/86/5 to 12 digits
+170/CO/COL/Colombia/57/8, 10 digits
+174/KM/COM/Comoros/269/7 digits
+180/CD/COD/Congo, Democratic Republic of the/243/5 to 9 digits
+178/CG/COG/Congo, Republic of the/242/6 to 7 digits
+184/CK/COK/Cook Islands/682/5 digits
+188/CR/CRI/Costa Rica/506/8 digits
+384/CI/CIV/Côte d’Ivoire/225/8 digits
+191/HR/HRV/Croatia/385/8 to 12 digits
+192/CU/CUB/Cuba/53/6 to 8 digits
+196/CY/CYP/Cyprus/357/8, 11 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Czech Republic/420/4 to 12 digits
+208/DK/DNK/Denmark/45/8 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Diego Garcia/246/7 digits
+262/DJ/DJI/Djibouti/253/6 digits
+212/DM/DMA/Dominica/1/(767)+ 7 digits
+214/DO/DOM/Dominican Republic/1/+7 digits
+218/EC/ECU/Ecuador/593/8 digits
+818/EG/EGY/Egypt/20/7 to 9 digits
+222/SV/SLV/El Salvador/503/7, 8, 11 digits
+226/GQ/GNQ/Equatorial Guinea/240/6 digits
+232/ER/ERI/Eritrea/291/7 digits
+233/EE/EST/Estonia/372/7 to 10 digits
+231/ET/ETH/Ethiopia/251/9 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Falkland Islands (Islas Malvinas)/500/5 digits
+234/FO/FRO/Faroe Islands/298/6 digits
+242/FJ/FJI/Fiji/679/7 digits
+246/FI/FIN/Finland/358/5 to 12 digits
+250/FR/FRA/France/33/9 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/French Departments and Territories in the Indian Ocean/262/9 digits
+254/GF/GUF/French Guiana/594/9 digits
+258/PF/PYF/French Polynesia/689/6 digits
+266/GA/GAB/Gabon/241/6, 7 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Gambia, The/220/7 digits
+268/GE/GEO/Georgia/995/8 digits
+276/DE/DEU/Germany/49/6 to 13 digits
+288/GH/GHA/Ghana/233/5 to 9 digits
+292/GI/GIB/Gibraltar/350/8 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Global Mobile SatelliteSystem (GMSS), sharedcode/881/
+300/GR/GRC/Greece/30/10 digits
+304/GL/GRL/Greenland/299/6 digits
+308/GD/GRD/Grenada/1/(473)+ 7 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Group of countries, shared code/388/
+312/GP/GLP/Guadeloupe/590/9 digits
+316/GU/GUM/Guam/1/(671)+ 7 digits
+320/GT/GTM/Guatemala/502/8 digits
+226/GQ/GNQ/Guinea/224/8 digits
+624/GW/GNB/Guinea-Bissau/245/7 digits
+328/GY/GUY/Guyana/592/7 digits
+332/HT/HTI/Haiti/509/8 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Holy See (Vatican City)/379/
+336/VA/VAT/Holy See (Vatican City)/39/up to 11 digits
+340/HN/HND/Honduras/504/7, 8 digits
+344/HK/HKG/Hong Kong/852/4, 8 to 9 digits
+348/HU/HUN/Hungary/36/8 to 9 digits
+352/IS/ISL/Iceland/354/7, 9 digits
+356/IN/IND/India/91/7 to 10 digits
+360/ID/IDN/Indonesia/62/5 to 10 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Inmarsat SNAC/870/9 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/International Freephone Service/800/8 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/International Networks, shared code/882/
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/International Networks, shared code/883/
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/International Premium Rate Service (IPRS)/979/9 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/International Shared Cost Service (ISCS)/808/8 digits
+364/IR/IRN/Iran/98/6 to 10 digits
+368/IQ/IRQ/Iraq/964/8 to 10 digits
+372/IE/IRL/Ireland/353/7 to 11 digits
+376/IL/ISR/Israel/972/8 to 9 digits
+380/IT/ITA/Italy/39/up to 11 digits
+388/JM/JAM/Jamaica/1/(876)+ 7 digits
+392/JP/JPN/Japan/81/9 to 10 digits
+400/JO/JOR/Jordan/962/5 to 9 digits
+398/KZ/KAZ/Kazakhstan/7/10 digits
+404/KE/KEN/Kenya/254/6 to 10 digits
+296/KI/KIR/Kiribati/686/5 digits
+408/KP/PRK/Korea, North/850/3 to 10 digits
+410/KR/KOR/Korea, South/82/8 to 11 digits
+414/KW/KWT/Kuwait/965/7, 8 digits
+417/KG/KGZ/Kyrgyzstan/996/9 digits
+418/LA/LAO/Laos/856/8 to 9 digits
+428/LV/LVA/Latvia/371/7, 8 digits
+422/LB/LBN/Lebanon/961/7 to 8 digits
+426/LS/LSO/Lesotho/266/8 digits
+430/LR/LBR/Liberia/231/7 to 8 digits
+434/LY/LBY/Libya/218/8 to 9 digits
+438/LI/LIE/Liechtenstein/423/7 to 9 digits
+440/LT/LTU/Lithuania/370/8 digits
+442/LU/LUX/Luxembourg/352/4 to 11 digits
+446/MO/MAC/Macau/853/7 to 8 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Macedonia [FYROM]/389/8 digits
+450/MG/MDG/Madagascar/261/9 to 10 digits
+454/MW/MWI/Malawi/265/7, 8 digits
+458/MY/MYS/Malaysia/60/7 to 9 digits
+462/MV/MDV/Maldives/960/7 digits
+466/ML/MLI/Mali/223/8 digits
+470/MT/MLT/Malta/356/8 digits
+584/MH/MHL/Marshall Islands/692/7 digits
+474/MQ/MTQ/Martinique/596/9 digits
+478/MR/MRT/Mauritania/222/7 digits
+480/MU/MUS/Mauritius/230/7 digits
+175/YT/MYT/Mayotte/269/…
+484/MX/MEX/Mexico/52/10 digits
+583/FM/FSM/Micronesia, Federated States of/691/7 digits
+498/MD/MDA/Moldova/373/8 digits
+492/MC/MCO/Monaco/377/5 to 9 digits
+496/MN/MNG/Mongolia/976/7 to 8 digits
+499/ME/MNE/Montenegro/382/4 to 12 digits
+500/MS/MSR/Montserrat/1/(664)+ 7 digits
+504/MA/MAR/Morocco/212/9 digits
+508/MZ/MOZ/Mozambique/258/8 to 9 digits
+516/NA/NAM/Namibia/264/6 to 10 digits
+520/NR/NRU/Nauru/674/4, 7 digits
+524/NP/NPL/Nepal/977/8 to 9 digits
+528/NL/NLD/Netherlands/31/9 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Netherlands Antilles/599/6 to 8 digits
+540/NC/NCL/New Caledonia/687/6 digits
+554/NZ/NZL/New Zealand/64/3 to 10 digits
+558/NI/NIC/Nicaragua/505/8 digits
+562/NE/NER/Niger/227/8 digits
+566/NG/NGA/Nigeria/234/7 to 10 digits
+570/NU/NIU/Niue/683/4 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Northern Territory/1/(670)+ 7 digits
+578/NO/NOR/Norway/47/5, 8 digits
+512/OM/OMN/Oman/968/7 to 8 digits
+586/PK/PAK/Pakistan/92/8 to 11 digits
+585/PW/PLW/Palau/680/7 digits
+591/PA/PAN/Panama/507/7, 8 digits
+598/PG/PNG/Papua New Guinea/675/4 to 11 digits
+600/PY/PRY/Paraguay/595/5 to 9 digits
+604/PE/PER/Peru/51/8 to 11 digits
+608/PH/PHL/Philippines/63/8 to 10 digits
+616/PL/POL/Poland/48/6 to 9 digits
+620/PT/PRT/Portugal/351/9, 11 digits
+630/(787/939)+ 7 digits/Puerto Rico/1/939)
+634/QA/QAT/Qatar/974/6, 7, 10 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Reserved/970/
+642/RO/ROU/Romania/40/9 digits
+643/RU/RUS/Russia/7/10 digits
+646/RW/RWA/Rwanda/250/9 digits
+654/SH/SHN/Saint Helena/290/4 digits
+659/KN/KNA/Saint Kitts and Nevis/1/(869)+ 7 digits
+662/LC/LCA/Saint Lucia/1/(758)+ 7 digits
+666/PM/SPM/Saint Pierre and Miquelon/508/6 digits
+670/VC/VCT/Saint Vincent and the Grenadines/1/(784)+ 7 digits
+882/WS/WSM/Samoa/685/3 to 7 digits
+674/SM/SMR/San Marino/378/6 to 10 digits
+678/ST/STP/Sao Tome and Principe/239/7 digits
+682/SA/SAU/Saudi Arabia/966/8 to 9 digits
+686/SN/SEN/Senegal/221/9 digits
+688/RS/SRB/Serbia/381/4 to 12 digits
+690/SC/SYC/Seychelles/248/6 digits
+694/SL/SLE/Sierra Leone/232/8 digits
+702/SG/SGP/Singapore/65/8 to 12 digits
+703/SK/SVK/Slovakia/421/4 to 9 digits
+705/SI/SVN/Slovenia/386/8 digits
+090/SB/SLB/Solomon Islands/677/5 digits
+706/SO/SOM/Somalia/252/5 to 8 digits
+710/ZA/ZAF/South Africa/27/9 digits
+724/ES/ESP/Spain/34/9 digits
+144/LK/LKA/Sri Lanka/94/9 digits
+729/SD/SDN/Sudan/249/9 digits
+740/SR/SUR/Suriname/597/6 to 7 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Swaziland/268/7 to 8 digits
+752/SE/SWE/Sweden/46/7 to 13 digits
+756/CH/CHE/Switzerland/41/4 to 12 digits
+760/SY/SYR/Syria/963/8 to 10 digits
+158/TW/TWN/Taiwan/886/8 to 9 digits
+762/TJ/TJK/Tajikistan/992/9 digits
+834/TZ/TZA/Tanzania/255/9 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Telecommunications for Disaster Relief (TDR)/888/
+764/TH/THA/Thailand/66/8, 9 digits
+626/TL/TLS/Timor-Leste/670/7 digits
+768/TG/TGO/Togo/228/7 digits
+772/TK/TKL/Tokelau/690/4 digits
+776/TO/TON/Tonga/676/5, 7 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Trial of a proposed new international service, shared code/991/
+780/TT/TTO/Trinidad and Tobago/1/(868)+ 7 digits
+654/SH/SHN/Tristan da Cunha/290/4 digits
+788/TN/TUN/Tunisia/216/8 digits
+792/TR/TUR/Turkey/90/10 digits
+795/TM/TKM/Turkmenistan/993/8 digits
+796/TC/TCA/Turks and Caicos Islands/1/(649)+ 7 digits
+798/TV/TUV/Tuvalu/688/5, 6 digits
+800/UG/UGA/Uganda/256/9 digits
+804/UA/UKR/Ukraine/380/9 digits
+784/AE/ARE/United Arab Emirates/971/8 to 9 digits
+826/GB/GBR/United Kingdom/44/7 to 10 digits
+581/UM/UMI/United States/1/10 digits
+NOT_AVAILABLE/NOT_AVAILABLE/NOT_AVAILABLE/Universal Personal Telecommunication (UPT)/878/
+858/UY/URY/Uruguay/598/4 to 11 digits
+860/UZ/UZB/Uzbekistan/998/9 digits
+548/VU/VUT/Vanuatu/678/5, 7 digits
+862/VE/VEN/Venezuela/58/10 digits
+704/VN/VNM/Vietnam/84/7 to 10 digits
+092/VG/VGB/Virgin Islands/1/(340)+ 7 digits
+876/WF/WLF/Wallis and Futuna/681/6 digits
+887/YE/YEM/Yemen/967/6 to 9 digits
+894/ZM/ZMB/Zambia/260/9 digits
+716/ZW/ZWE/Zimbabwe/263/5 to 9 digits
